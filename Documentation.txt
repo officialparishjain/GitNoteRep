@@ -1,0 +1,5 @@
+Git is Basically used for Version Control
+
+Steps to set up the Git
+1. Intializing the Git :  git init
+2. Linking local and remote :  
